@@ -1,5 +1,7 @@
 # example1
 
+This is a test repo for teaching purposes.
+
 Let's write some stuff here. Let's include some code.
 
 Some Python code:
